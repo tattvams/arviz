@@ -10,6 +10,8 @@
 * Bokeh 3 compatibility. ([1919](https://github.com/arviz-devs/arviz/pull/1919))
 * Remove manual setting of 2d KDE limits ([1939](https://github.com/arviz-devs/arviz/pull/1939))
 * Pin to bokeh<3 version ([1954](https://github.com/arviz-devs/arviz/pull/1954))
+* Fix parameter duplication problem with PyStan ([1962](https://github.com/arviz-devs/arviz/pull/1962))
+* Temporarily disable pyjags tests ([1963](https://github.com/arviz-devs/arviz/pull/1963))
 
 ### Deprecation
 
